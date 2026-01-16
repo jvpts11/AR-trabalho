@@ -24,6 +24,6 @@ MonoBehaviour:
       m_GuidLow: 3545619960941805277
       m_GuidHigh: 18315791059244302826
     m_Size: {x: 0.6206435, y: 0.88}
-    m_SpecifySize: 1
+    m_SpecifySize: 0
     m_Name: TargetCard
     m_Texture: {fileID: 2800000, guid: a8787edd92913134ea41885aedc22efe, type: 3}

@@ -13,7 +13,7 @@ public class CardTracker : MonoBehaviour
     void Awake()
     {
         if (trackedImageManager == null)
-            trackedImageManager = FindObjectOfType<ARTrackedImageManager>();
+            trackedImageManager = FindFirstObjectByType<ARTrackedImageManager>();
     }
 
     void OnEnable()
